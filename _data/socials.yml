@@ -1,14 +1,14 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: you@example.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+
+email: xuminghui915@gmail.com # 主邮箱
+
+academic_email: # 第二个邮箱（如学校邮箱，图标会显示在主邮箱旁边）
+  logo: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/envelope-at.svg
+  title: Academic Email
+  url: mailto:hernan@stumail.ysu.edu.cn
+
+github_username: xuminghui2001 # GitHub 主页图标
+
+# cv_pdf: /assets/pdf/cv.pdf # 如需在社交栏显示简历下载图标，上传 PDF 后取消注释
+# scholar_userid: 你的Google_Scholar_ID # 注册 Google Scholar 后取消注释并填入 ID
