@@ -85,7 +85,7 @@ cv:
       - name: Bregman Adaptive Nonconvex Decoupled Algorithm for Convolutional Dictionary Learning (BANDA)
         start_date: 2024-09
         end_date: 2026-03
-        summary: Corresponding to Knowledge-Based Systems (2026) | Core Method: BANDA
+        summary: "Corresponding to Knowledge-Based Systems (2026) | Core Method: BANDA"
         highlights:
           - "Background: Addressed the issue that alternating minimization in traditional slice-based L0-constrained convolutional dictionary learning (CDL) easily gets trapped in poor local minima due to high non-convexity and non-smoothness."
           - "Theoretical & Algorithmic Contributions: Independently derived customized Legendre kernel functions to reduce complex non-convex proximal subproblems into closed-form solutions via univariate cubic equations, and established rigorous convergence guarantees under the Kurdyka–Łojasiewicz (KL) property and L-smad condition."
@@ -94,7 +94,7 @@ cv:
       - name: Structured Sparse Representation Learning with Locality-Preserving Strict Sparsity and Spatially Adaptive Geometry (VBASTA)
         start_date: 2024-09
         end_date: 2026-06
-        summary: Corresponding to Pattern Recognition (2026) | Core Method: VBASTA
+        summary: "Corresponding to Pattern Recognition (2026) | Core Method: VBASTA"
         highlights:
           - "Background: Resolved the limitation of uniform scalar step sizes in convolutional dictionary learning when handling spatially heterogeneous patch overlaps."
           - "Theoretical & Algorithmic Contributions: Proposed a variable-metric diagonal majorizer based on the Gershgorin circle theorem to avoid Hessian matrix inversion, implemented backtracking line search in MATLAB, and proved sufficient decrease guarantees."
