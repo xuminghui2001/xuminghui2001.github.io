@@ -1,9 +1,9 @@
----
+<img width="1614" height="599" alt="image" src="https://github.com/user-attachments/assets/0120d96d-1abc-4115-9aa4-fca1c0f1b4e6" />---
 layout: profiles
 permalink: /people/
 title: people
 description: members of the lab or group
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
