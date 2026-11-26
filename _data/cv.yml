@@ -18,7 +18,7 @@ cv:
         degree: M.S. in Science
         start_date: 2024-09
         end_date: 2027-06
-        location: Qinhuangdao, Hebei, China
+        location: "Qinhuangdao, Hebei,<br>China"
         highlights:
           - "Advisor: Jing Li | Graduate Counselor: Xue Bai"
           - "Research Interests: Optimization Theory, Non-Convex and Non-Smooth Optimization, Sparse Representation, Signal Processing, 3D Light-Field Microscopy Localization"
@@ -28,7 +28,7 @@ cv:
         degree: B.S. in Science
         start_date: 2020-10
         end_date: 2024-06
-        location: Zigong/Yibin, Sichuan, China
+        location: "Zigong/Yibin, Sichuan,<br>China"
         highlights:
           - "Undergraduate Counselor: Rui Bin"
 
@@ -37,7 +37,7 @@ cv:
         degree: High School Diploma
         start_date: 2017-09
         end_date: 2020-07
-        location: Jinan, Shandong, China
+        location: "Jinan, Shandong,<br>China"
         highlights:
           - "Homeroom Teachers: Jun Wang, Xuewu Xiao"
 
@@ -101,25 +101,29 @@ cv:
           - "Experiments & Writing: Led visual restoration experiments, quantitative evaluations, and core manuscript writing."
 
     Awards:
-      - name: Graduate Academic Second-Class Scholarship (Awarded Twice)
+      - name: Graduate Academic Second-Class Scholarship
         date: 2025-11
-        summary: Yanshan University (Consecutively awarded in November 2024 and November 2025)
+        awarder: Yanshan University
+
+      - name: Graduate Academic Second-Class Scholarship
+        date: 2024-11
+        awarder: Yanshan University
 
       - name: Honorable Mention (H Prize), Mathematical Contest in Modeling (MCM/ICM)
         date: 2023-05
-        summary: COMAP
+        awarder: COMAP
 
       - name: Third Prize, Asia and Pacific Mathematical Contest in Modeling (APMCM)
         date: 2023-01
-        summary: APMCM Organizing Committee
+        awarder: APMCM Organizing Committee
 
-      - name: Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+      - name: Sichuan Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
         date: 2022-11
-        summary: China Society for Industrial and Applied Mathematics (CSIAM)
+        awarder: China Society for Industrial and Applied Mathematics (CSIAM)
 
       - name: University Second-Class Scholarship & Outstanding Communist Youth League Member
         date: 2023-10
-        summary: Sichuan University of Science & Engineering
+        awarder: Sichuan University of Science & Engineering
 
     Skills:
       - label: Optimization & Theory
