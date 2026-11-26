@@ -19,7 +19,7 @@ social: true # 在首页底部显示邮箱与社交图标
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: 6
 
 latest_posts:
   enabled: false
