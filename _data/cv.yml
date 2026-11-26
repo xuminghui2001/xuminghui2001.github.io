@@ -77,9 +77,13 @@ cv:
         date: 2026
 
     Certificates:
+      - name: "Software Copyright: Warehouse Reconciliation Management System V1.0"
+        date: 2026-07
+        issuer: "National Copyright Administration of China (Reg. No.: 2026SR0742709 | Sole Copyright Owner)"
+
       - name: "Software Copyright: Slice-based Convolutional Dictionary Learning Image Restoration Software V1.0"
-        date: 2025
-        issuer: National Copyright Administration of China (Advisor First Inventor, Second Inventor)
+        date: 2025-05
+        issuer: "National Copyright Administration of China (Reg. No.: 2025SR0805983 | Advisor First Inventor, Second Inventor)"
 
     Projects:
       - name: Bregman Adaptive Nonconvex Decoupled Algorithm for Convolutional Dictionary Learning (BANDA)
