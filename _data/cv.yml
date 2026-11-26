@@ -9,6 +9,20 @@ cv:
       username: xuminghui2001
 
   sections:
+    Contact Information:
+      - label: Name
+        details: Minghui Xu (徐明晖)
+      - label: Current Status
+        details: M.S. Student in Mathematics, Yanshan University
+      - label: Email
+        details: 1281327841@qq.com
+      - label: Location
+        details: "Qinhuangdao, Hebei, China (Hometown: Jinan, Shandong)"
+      - label: Homepage
+        details: "https://xuminghui2001.github.io"
+      - label: GitHub
+        details: "https://github.com/xuminghui2001"
+
     Professional Summary:
       - M.S. student in Mathematics at Yanshan University (advised by Jing Li). My research interests focus on optimization theory, non-convex and non-smooth optimization, sparse representation, signal processing, and 3D light-field microscopy localization.
 
