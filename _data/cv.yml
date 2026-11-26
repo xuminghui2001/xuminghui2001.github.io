@@ -9,20 +9,6 @@ cv:
       username: xuminghui2001
 
   sections:
-    Contact Information:
-      - label: Name
-        details: Minghui Xu (徐明晖)
-      - label: Current Status
-        details: M.S. Student in Mathematics, Yanshan University
-      - label: Email
-        details: 1281327841@qq.com
-      - label: Location
-        details: "Qinhuangdao, Hebei, China (Hometown: Jinan, Shandong)"
-      - label: Homepage
-        details: "https://xuminghui2001.github.io"
-      - label: GitHub
-        details: "https://github.com/xuminghui2001"
-
     Professional Summary:
       - M.S. student in Mathematics at Yanshan University (advised by Jing Li). My research interests focus on optimization theory, non-convex and non-smooth optimization, sparse representation, signal processing, and 3D light-field microscopy localization.
 
@@ -93,7 +79,7 @@ cv:
     Certificates:
       - name: "Software Copyright: Slice-based Convolutional Dictionary Learning Image Restoration Software V1.0"
         date: 2025
-        summary: National Copyright Administration of China (Advisor First Inventor, Second Inventor)
+        issuer: National Copyright Administration of China (Advisor First Inventor, Second Inventor)
 
     Projects:
       - name: Bregman Adaptive Nonconvex Decoupled Algorithm for Convolutional Dictionary Learning (BANDA)
@@ -115,42 +101,55 @@ cv:
           - "Experiments & Writing: Led visual restoration experiments, quantitative evaluations, and core manuscript writing."
 
     Awards:
-      - name: Graduate Academic Second-Class Scholarship
+      - title: Graduate Academic Second-Class Scholarship
         date: 2025-11
         awarder: Yanshan University
 
-      - name: Graduate Academic Second-Class Scholarship
+      - title: Graduate Academic Second-Class Scholarship
         date: 2024-11
         awarder: Yanshan University
 
-      - name: Honorable Mention (H Prize), Mathematical Contest in Modeling (MCM/ICM)
+      - title: Honorable Mention (H Prize), Mathematical Contest in Modeling (MCM/ICM)
         date: 2023-05
         awarder: COMAP
 
-      - name: Third Prize, Asia and Pacific Mathematical Contest in Modeling (APMCM)
+      - title: Third Prize, Asia and Pacific Mathematical Contest in Modeling (APMCM)
         date: 2023-01
         awarder: APMCM Organizing Committee
 
-      - name: Sichuan Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+      - title: Sichuan Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
         date: 2022-11
         awarder: China Society for Industrial and Applied Mathematics (CSIAM)
 
-      - name: University Second-Class Scholarship & Outstanding Communist Youth League Member
+      - title: University Second-Class Scholarship & Outstanding Communist Youth League Member
         date: 2023-10
         awarder: Sichuan University of Science & Engineering
 
     Skills:
-      - label: Optimization & Theory
-        details: Non-convex & Non-smooth Optimization, Bregman Proximal Gradient, Variable-Metric Methods, ADMM, Kurdyka–Łojasiewicz (KL) Convergence Analysis
-      - label: Programming & Tools
-        details: MATLAB (Matrix Optimization & Numerical Simulation), Python, C, LaTeX
+      - name: Optimization & Theory
+        keywords:
+          - Non-convex & Non-smooth Optimization
+          - Bregman Proximal Gradient
+          - Variable-Metric Methods
+          - ADMM
+          - Kurdyka–Łojasiewicz (KL) Convergence Analysis
+      - name: Programming & Tools
+        keywords:
+          - MATLAB (Matrix Optimization & Numerical Simulation)
+          - Python
+          - C
+          - LaTeX
 
     Languages:
-      - label: Chinese
-        details: Native speaker
-      - label: English
-        details: Proficient in reading academic literature, drafting SCI manuscripts, and handling peer-review responses
+      - language: Chinese
+        fluency: Native speaker
+      - language: English
+        fluency: Proficient in reading academic literature, drafting SCI manuscripts, and handling peer-review responses
 
     Interests:
-      - label: Hobbies & Daily Activities
-        details: Photography, Running, Fitness, Music
+      - name: Hobbies & Daily Activities
+        keywords:
+          - Photography
+          - Running
+          - Fitness
+          - Music
